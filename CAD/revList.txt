@@ -7,3 +7,5 @@ frame-side-panel tab-cutouts all changed to 8.4 x 8.4mm for better fit
 All frame t-slots designed for M3 screws and M3 nyloc nuts
 All frame t-slots have filleted edges to resist over-tightening
 Standard screw lengths of 12mm and 18mm
+
+Countersunk screws for heated bed
