@@ -1,0 +1,5 @@
+Added Component: Designator=P2(HDR1X3)
+Added Pin To Net: NetName=SIG Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetL1_1 Pin=P2-3
+Added Member To Class: ClassName=board1 Member=Component P2 Header 3

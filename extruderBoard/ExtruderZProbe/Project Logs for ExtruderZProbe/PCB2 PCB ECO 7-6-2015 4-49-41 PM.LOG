@@ -1,0 +1,6 @@
+Added Component: Designator=L1(0402-A)
+Added Component: Designator=P2(HDR1X3)
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Member To Class: ClassName=board1 Member=Component L1 Inductor
+Added Member To Class: ClassName=board1 Member=Component P2 Header 3
