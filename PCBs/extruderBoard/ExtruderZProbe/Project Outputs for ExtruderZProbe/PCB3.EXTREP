@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB3.GBR   7/7/2015  12:37:41 PM
+Gerber File Extension Report For: PCB3.GBR   7/18/2015  8:19:13 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,9 +15,4 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
-.GM1                Mechanical 1                            
-.GM4                Mechanical 4                            
-.GM13               Mechanical 13                           
-.GM15               Mechanical 15                           
-.GM16               Mechanical 16                           
 ------------------------------------------------------------------------------------------

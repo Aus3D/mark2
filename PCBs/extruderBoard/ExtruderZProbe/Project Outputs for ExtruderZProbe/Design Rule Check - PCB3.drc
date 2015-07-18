@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Chris\Documents\GitHub\mark2\PCBs\extruderBoard\ExtruderZProbe\PCB3.PcbDoc
-Date     : 7/17/2015
-Time     : 1:46:50 AM
+Date     : 7/18/2015
+Time     : 8:01:41 PM
 
 Processing Rule : Width Constraint (Min=0.25mm) (Max=0.5mm) (Preferred=0.5mm) ((InNet('5V') OR InNet('GND') OR InNet('VCC')))
 Rule Violations :0
