@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X3 New Footprint=ICSP Pads - SMD
+Change Class Name : Old Net Name=board1 New Net Name=board2
