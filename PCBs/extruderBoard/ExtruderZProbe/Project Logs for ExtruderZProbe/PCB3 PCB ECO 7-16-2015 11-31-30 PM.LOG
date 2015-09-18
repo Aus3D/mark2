@@ -1,4 +1,0 @@
-Added Component: Designator=L1(SMD-0603)
-Added Pin To Net: NetName=VCC Pin=L1-1
-Added Pin To Net: NetName=5V Pin=L1-2
-Added Member To Class: ClassName=board1 Member=Component L1 7447965

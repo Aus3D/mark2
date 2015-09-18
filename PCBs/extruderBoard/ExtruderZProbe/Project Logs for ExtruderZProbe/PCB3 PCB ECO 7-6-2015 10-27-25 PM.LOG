@@ -1,4 +1,0 @@
-Added Component: Designator=D1(LED-Polarized - 3mm)
-Added Component: Designator=D2(LED-Polarized - 3mm)
-Added Member To Class: ClassName=board1 Member=Component D1 GL480E
-Added Member To Class: ClassName=board1 Member=Component D2 GL480E

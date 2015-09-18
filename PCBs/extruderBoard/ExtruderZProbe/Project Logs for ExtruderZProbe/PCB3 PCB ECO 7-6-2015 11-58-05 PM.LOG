@@ -1,4 +1,0 @@
-Added Component: Designator=Q1(LED-2.54spacing)
-Added Pin To Net: NetName=NetC3_1 Pin=Q1-1
-Added Pin To Net: NetName=5V Pin=Q1-2
-Added Member To Class: ClassName=board1 Member=Component Q1 SFH3100F

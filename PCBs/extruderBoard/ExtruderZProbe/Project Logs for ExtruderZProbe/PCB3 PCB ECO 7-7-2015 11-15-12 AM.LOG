@@ -1,4 +1,0 @@
-Added Component: Designator=L?(0603)
-Added Pin To Net: NetName=VCC Pin=L?-1
-Added Pin To Net: NetName=5V Pin=L?-2
-Added Member To Class: ClassName=board1 Member=Component L? Inductor
